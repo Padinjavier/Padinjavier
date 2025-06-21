@@ -9,6 +9,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-padin-flores-304438238)
 [![GitHub](https://img.shields.io/badge/GitHub-Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Padinjavier)
+[![Email](https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierpadin661@gmail.com)
+
+![Status](https://img.shields.io/badge/🚀_Disponible_para_colaborar-YES-brightgreen)
+![Último Commit](https://img.shields.io/github/last-commit/Padinjavier/Padinjavier)
 
 </div>
 
@@ -50,9 +54,9 @@ Soy estudiante de **Ingeniería de Sistemas** con experiencia en **desarrollo we
 <details>
 <summary><strong>💻 Stack Tecnológico y Herramientas</strong></summary><br>
 
-<table  align="center">
+<table align="center">
 <tr>
-<td valign="top" width="50%"  align="center">
+<td valign="top" width="50%" align="center">
 
 ### 🌐 Frontend  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -90,7 +94,7 @@ Soy estudiante de **Ingeniería de Sistemas** con experiencia en **desarrollo we
 ---
 
 <details>
-<summary><strong>📊 GitHub Stats y Proyectos</strong></summary><br>
+<summary><strong>📊 GitHub Stats, Skyline y Proyectos</strong></summary><br>
 
 ### 📈 Estadísticas
 
@@ -102,11 +106,21 @@ Soy estudiante de **Ingeniería de Sistemas** con experiencia en **desarrollo we
 
 </div>
 
+### 🌌 Mapa 3D de contribuciones  
+[🎆 Ver Skyline 3D](https://skyline.github.com/Padinjavier) (contribuciones animadas en 3D)
+
+---
+
 ### 🚀 Proyectos Destacados
 
 - **Vive Tu Aventura** | Plataforma turística con PHP/MVC/AdminLTE  
 - **Sistema Help Desk** | Gestión de incidencias con Bootstrap y MySQL  
 - **Minimarket v2** | Sistema de ventas con .NET Core + MySQL
+
+📽️ *Demo (YouTube)*  
+[![Demo Vive Tu Aventura](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+---
 
 ### 🎯 Objetivos 2025
 - [ ] Terminar la carrera  
