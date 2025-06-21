@@ -8,7 +8,7 @@
 📧 **javierpadin661@gmail.com** | 📞 **+51 917189300**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-padin-flores-304438238)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JavierPadin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Padinjavier)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierpadin661@gmail.com)
 
 </div>
@@ -73,9 +73,9 @@ Soy un estudiante avanzado de **Ingeniería de Sistemas** con sólida experienci
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierPadin&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierPadin&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JavierPadin&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Padinjavier&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Padinjavier&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Padinjavier&theme=radical&hide_border=true)
 
 </div>
 
@@ -161,7 +161,7 @@ Soy un estudiante avanzado de **Ingeniería de Sistemas** con sólida experienci
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JavierPadin&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Padinjavier&theme=react-dark&hide_border=true)
 
 </div>
 
@@ -193,7 +193,7 @@ Soy un estudiante avanzado de **Ingeniería de Sistemas** con sólida experienci
 
 ### 💡 *"En constante aprendizaje para aplicar tecnología con propósito"*
 
-![Visitor Count](https://profile-counter.glitch.me/JavierPadin/count.svg)  
+![Visitor Count](https://profile-counter.glitch.me/Padinjavier/count.svg)  
 ⭐ ¡No olvides darle star a los repos que te gusten!
 
 </div>
