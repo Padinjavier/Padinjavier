@@ -106,21 +106,6 @@ Soy estudiante de **Ingeniería de Sistemas** con experiencia en **desarrollo we
 
 </div>
 
-### 🌌 Mapa 3D de contribuciones  
-[🎆 Ver Skyline 3D](https://skyline.github.com/Padinjavier) (contribuciones animadas en 3D)
-
----
-
-### 🚀 Proyectos Destacados
-
-- **Vive Tu Aventura** | Plataforma turística con PHP/MVC/AdminLTE  
-- **Sistema Help Desk** | Gestión de incidencias con Bootstrap y MySQL  
-- **Minimarket v2** | Sistema de ventas con .NET Core + MySQL
-
-📽️ *Demo (YouTube)*  
-[![Demo Vive Tu Aventura](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
----
 
 ### 🎯 Objetivos 2025
 - [ ] Terminar la carrera  
