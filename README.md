@@ -2,34 +2,53 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Especialista+en+Soporte+TI;Apasionado+por+la+Tecnología)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Soporte+TI+Especializado;Apasionado+por+la+Tecnología)](https://git.io/typing-svg)
 
-📍 **Quilmaná, Cañete, Lima, Perú**  
-📧 **javierpadin661@gmail.com** | 📞 **+51 917189300**
+📍 Quilmaná, Cañete, Lima, Perú  
+📧 javierpadin661@gmail.com | 📞 +51 917189300
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-padin-flores-304438238)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Padinjavier)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierpadin661@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-padin-flores-304438238)
+[![GitHub](https://img.shields.io/badge/GitHub-Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Padinjavier)
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🧠 Sobre mí
 
-> *"La tecnología no es solo código, es la herramienta para crear soluciones que impacten positivamente en el mundo"*
-
-Soy un estudiante avanzado de **Ingeniería de Sistemas** con sólida experiencia en **soporte TI**, **desarrollo web** y **documentación técnica**. Actualmente en el décimo ciclo en la Universidad Nacional de Cañete, con prácticas realizadas en **Western Union Perú**.
-
-### 🎯 Mis Fortalezas
-- 🤝 Trabajo en equipo
-- 💬 Comunicación efectiva
-- ⚡ Proactividad
-- 📊 Organización
+Soy estudiante de **Ingeniería de Sistemas** con experiencia en **desarrollo web**, **soporte técnico** y **documentación de TI**. Actualmente curso el décimo ciclo en la Universidad Nacional de Cañete. He realizado prácticas en **Western Union Perú** y en la **Municipalidad Distrital de Quilmaná**, desarrollando soluciones tecnológicas de impacto.
 
 ---
 
-## 💻 Stack Tecnológico
+## 🎓 Formación
+
+**Universidad Nacional de Cañete**  
+📘 *Ingeniería de Sistemas (2020 – 2025)*  
+📌 Décimo ciclo | Participación en Congreso Internacional UNDC
+
+---
+
+## 📜 Certificaciones
+
+- SQL Server Fundamentals – RPCC  
+- Power BI & Python – Lima Educa  
+- Comunicación interna – Fundación Romero  
+- Mentalidad de crecimiento – Campus Romero
+
+---
+
+## 💼 Experiencia Profesional
+
+**Western Union Perú** – Prácticas TI (Ene - Mar 2025)  
+📄 Desarrollo de DRP | Diagramas de red | Simulaciones de recuperación
+
+**Municipalidad de Quilmaná** – Soporte Técnico (Set - Nov 2024)  
+🛠️ Instalación de cámaras y antenas | Diagnóstico de equipos | Redes LAN/WiFi
+
+---
+
+<details>
+<summary><strong>💻 Stack Tecnológico y Herramientas</strong></summary><br>
 
 <table  align="center">
 <tr>
@@ -44,7 +63,7 @@ Soy un estudiante avanzado de **Ingeniería de Sistemas** con sólida experienci
 </td>
 <td valign="top" width="50%">
 
-### ⚙️ Backend y Bases de Datos  
+### ⚙️ Backend y BD  
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -59,7 +78,6 @@ Soy un estudiante avanzado de **Ingeniería de Sistemas** con sólida experienci
 
 ### 🛠️ Herramientas  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -67,9 +85,14 @@ Soy un estudiante avanzado de **Ingeniería de Sistemas** con sólida experienci
 </tr>
 </table>
 
+</details>
+
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary><strong>📊 GitHub Stats y Proyectos</strong></summary><br>
+
+### 📈 Estadísticas
 
 <div align="center">
 
@@ -79,121 +102,33 @@ Soy un estudiante avanzado de **Ingeniería de Sistemas** con sólida experienci
 
 </div>
 
----
+### 🚀 Proyectos Destacados
 
-## 🎨 Proyectos Destacados
+- **Vive Tu Aventura** | Plataforma turística con PHP/MVC/AdminLTE  
+- **Sistema Help Desk** | Gestión de incidencias con Bootstrap y MySQL  
+- **Minimarket v2** | Sistema de ventas con .NET Core + MySQL
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🎯 Objetivos 2025
+- [ ] Terminar la carrera  
+- [ ] Trabajar como Full Stack  
+- [ ] Certificación en AWS o Azure  
+- [ ] Contribuir a proyectos Open Source  
+- [ ] Crear una app web completa
 
-### 🏖️ Vive Tu Aventura  
-- Plataforma turística completa  
-- 🛠️ PHP, MySQL, MVC, AdminLTE  
-- ✨ Gestión de reservas, reportes, panel admin  
-- ✅ **Completado**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Sistema Help Desk  
-- Sistema de tickets e incidencias  
-- 🛠️ PHP MVC, MySQL, Bootstrap  
-- ✨ Seguimiento y reportes  
-- 🚧 **En desarrollo**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🏪 Minimarket v2  
-- Sistema de ventas mejorado  
-- 🛠️ .NET Core, C#, MySQL  
-- ✨ Mejor rendimiento, escalabilidad  
-- 🔄 **En refactorización**
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 💼 Experiencia Profesional
+## 📬 Contacto
 
-- **Western Union Perú S.A.**  
-  _Prácticas TI_ | Ene 2025 – Mar 2025  
-  🧾 Plan DRP | 📄 Documentación técnica | 🔁 Simulaciones de recuperación  
-
-- **Municipalidad de Quilmaná**  
-  _Soporte Técnico_ | Set 2024 – Nov 2024  
-  🛠️ Soporte | 📷 Instalación de cámaras | 🔧 Mantenimiento
-
----
-
-## 🎓 Formación y Certificaciones
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏫 Universidad Nacional de Cañete  
-**Ingeniería de Sistemas** | *2020 - 2025*  
-📚 Décimo ciclo  
-🏆 Congreso Internacional UNDC
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Certificaciones  
-- SQL Server Fundamentals – RPCC  
-- Power BI & Python – Lima Educa  
-- Comunicación interna – Fundación Romero  
-- Mentalidad de crecimiento – Campus Romero
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Contribuciones
+¿Tienes un proyecto o quieres colaborar?
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Padinjavier&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Objetivos 2025
-
-- [ ] 🎓 Terminar la universidad  
-- [ ] 💼 Experiencia Full Stack  
-- [ ] ☁️ Certificación AWS/Azure  
-- [ ] 🤝 Contribuciones open source  
-- [ ] 🌐 App web propia
-
----
-
-## 🤝 Colaboremos
-
-<div align="center">
-
-¿Te interesa colaborar o tienes una oportunidad laboral?  
 [![LinkedIn](https://img.shields.io/badge/Contactame_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-padin-flores-304438238)  
-[![Email](https://img.shields.io/badge/Enviame_un_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierpadin661@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"En constante aprendizaje para aplicar tecnología con propósito"*
+[![Email](https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierpadin661@gmail.com)  
 
 ![Visitor Count](https://profile-counter.glitch.me/Padinjavier/count.svg)  
-⭐ ¡No olvides darle star a los repos que te gusten!
+⭐ ¡No olvides dejar un star si te gustan mis proyectos!
 
 </div>
